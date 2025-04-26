@@ -1,4 +1,8 @@
 # Modelagem e Diagramação de um Componente iPhone
+
+
+<img align="right" height="180" src="https://img.freepik.com/free-vector/hand-drawn-phone-cartoon-illustration_52683-126713.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724630400&semt=ais_hybrid">
+
 Este é um desafio de Programação Orientada a Objetos (POO) da **DIO**, no qual pude desenvolver, no VS Code, funcionalidades  implantando  as classes e interfaces no formato de arquivos .java.
 O objetivo do desafio é modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
